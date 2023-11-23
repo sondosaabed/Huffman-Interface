@@ -1,3 +1,10 @@
+<div align="center">
+
+  _Better Code found here https://github.com/sondosaabed/Huffman-encoding_  
+
+</div>
+
+
 # Huffman Coding User Interface
 This is a user interface for a Java desktop application, the application that would apply Huffman Coding.
 
